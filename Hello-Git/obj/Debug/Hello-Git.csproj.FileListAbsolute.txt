@@ -1,0 +1,6 @@
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/bin/Debug/Hello-Git.exe
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/bin/Debug/Hello-Git.pdb
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/obj/Debug/Hello-Git.csprojAssemblyReference.cache
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/obj/Debug/Hello-Git.csproj.CoreCompileInputs.cache
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/obj/Debug/Hello-Git.exe
+/Users/zaidalzamani/Desktop/Dominican-University-MSSD/SD-745-01/Intro-week/Hello-Git/Hello-Git/obj/Debug/Hello-Git.pdb
